@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Hello! 😊
 My name is João Victor, from Brazil (🇧🇷). I am currently an Information Systems student. And I'm part of Tecno System Empresa Júnior. I'm starting my career as a Front-end developer, where I intend to follow and improve in the development area. Seeking to collaborate with Front-end projects
 
-In my spare time she likes to watch football (⚽️), play games (🎮), listen to music (🎵) and watch technology videos (💻)
+In my spare time I like to watch football (⚽️), play games (🎮), listen to music (🎵) and watch technology videos (👨‍💻)
 
 Would you like to meet me?
