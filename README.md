@@ -24,8 +24,8 @@ Would you like to meet me?
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Ferraz25/)](https://github.com/Ferraz25/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-b4877a148/)](https://www.linkedin.com/in/jo%C3%A3o-victor-b4877a148/)
-<!--[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+075+988108403&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+075+988108403&text=Hello!)-->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:victorferraz244@gmail.com)](mailto:victorferraz244@gmail.com)
+<!--[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+075+988108403&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+075+988108403&text=Hello!)-->
  
 - Thanks for visiting. 
  
