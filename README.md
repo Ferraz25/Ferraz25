@@ -7,15 +7,15 @@
 - 💻 Front-end Developer
 - 🎓 I'm graduated in Systems of Information
 - 📚 I'm self-taught and I like to study and I'm passionate about programming
-- 📺 As hoobies gostri to watch movies, series and sports
+- 📺 The hoobies like to watch movies, series and sports
 
 ##
 
 #### ⚙ GitHub Analytics
 <div>
  <a href="https://github.com/Ferraz25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ferraz25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferraz25&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api?username=Ferraz25&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ferraz25&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  ##
