@@ -4,7 +4,7 @@
 
 #### About me:
 
-- 💻 Front-end Developer
+- 💻 Junior Front-end Developer
 - 🎓 I'm graduated in Systems of Information
 - 📚 I'm self-taught and I like to study and I'm passionate about programming
 - 📺 The hoobies like to watch movies, series and sports
